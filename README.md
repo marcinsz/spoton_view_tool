@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SpotOnViewTool::Renderer.copyright "Marcin Szot", "All rights reserved"
+```
 
 ## Development
 
